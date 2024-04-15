@@ -609,3 +609,8 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+#msg{
+    color: #61b752;
+    margin-top: 5px;
+    display: block;
+}
